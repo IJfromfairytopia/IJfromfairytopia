@@ -2,11 +2,11 @@
 
 # Self-Introduction 🎀
 
-I’m Inzhu, a behavioral science student currently studying at Hokkaido University, I focus on topics like cultural psychology, learning processes, and human cognition.
+I’m Inzhu, a behavioral science student currently studying at Hokkaido University. I focus on topics like cultural psychology, learning processes, and human cognition.
 
 With an international background and experience living in several countries, I’m especially drawn to cross-cultural research and how behavioral patterns differ across societies. 
 
-Outside of my studies, I’m interested in language learning, fashion, and exploring diverse perspectives through traveling.
+Outside of my studies, I’m interested in language learning, fashion, and traveling.
 
 
 <!--
