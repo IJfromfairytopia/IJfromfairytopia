@@ -1,6 +1,6 @@
 # Hi there 👋
 
-#3 Self-Introduction
+# Self-Introduction
 
 🎀I’m Inzhu, a behavioral science student currently studying at Hokkaido University, I focus on topics like cultural psychology, learning processes, and human cognition.
 
